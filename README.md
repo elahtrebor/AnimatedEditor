@@ -10,4 +10,4 @@ To run:   java AnimatedEditor
 
 Example:
 
-![Alt text](AnimatedEditor.gif?raw=true "Animated Editro")
+[![Animated-Editor.gif](https://i.postimg.cc/nzrmnp4L/Animated-Editor.gif)](https://postimg.cc/5Ycy3ckc)
