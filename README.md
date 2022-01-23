@@ -2,7 +2,7 @@
 
 Animated Text Editor built in Java that renders an animated GIF as background
 
-Tested on Windows, MAC, Linux Mint/Ubuntu, Raspberry pi raspian.
+Tested on Windows, MAC, Linux Mint/Ubuntu, Raspberry Pi Raspbian.
 
 I was bored so created this as wanted clouds floating behind the code that was editing. 
 <pre>
