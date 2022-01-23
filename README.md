@@ -8,3 +8,6 @@ To compile:     javac AnimatedEditor.java
 
 To run:   java AnimatedEditor
 
+Example:
+
+![Alt text](AnimatedEditor.gif?raw=true "Animated Editro")
