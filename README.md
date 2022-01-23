@@ -13,4 +13,11 @@ Example:
 ![AnimatedEditor.gif](https://raw.github.com/elahtrebor/AnimatedEditor/main/AnimatedEditor.gif)
 
 
+The File menu supports 
+- Opening a file / Browse / select.
+- Changing the background via file browser
+- Changing the Text Color as backgrounds may clash
+- Save, Save As , and exit.
+- 
+
 
