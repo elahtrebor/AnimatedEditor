@@ -1,14 +1,12 @@
 # AnimatedEditor
 
 Animated Text Editor built in Java that renders an animated GIF as background
+Tested on Windows, MAC, Linux Mint/Ubuntu, Raspberry pi raspian.
 
 I was bored so created this as wanted clouds floating behind the code that was editing. 
 
-To Install: 
-  Simply download the AnimatedEditor.java file and compile it.
-  
+ To Install: Simply download the AnimatedEditor.java file and compile it.
  To compile: javac AnimatedEditor.java
-
  To run:   java AnimatedEditor
 
 Example Screenshot:
