@@ -18,6 +18,10 @@ The File menu supports
 - Changing the background via file browser
 - Changing the Text Color as backgrounds may clash
 - Save, Save As , and exit.
-- 
+
+![AnimatedEditor.gif](https://raw.github.com/elahtrebor/AnimatedEditor/main/screenshots/FileMenu.png)
+
+
+![AnimatedEditor.gif](https://raw.github.com/elahtrebor/AnimatedEditor/main/screenshots/editMenu.png)
 
 
